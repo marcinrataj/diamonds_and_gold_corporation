@@ -1,4 +1,3 @@
-#
 demo: https://gentle-rolypoly-e91f2d.netlify.app/
 #
 A website about investing in crypto, gold, diamonds with interesting sections with animated background elements, also has a contact form, current year in the footer, hamburger menu and is made/styled using a grid
