@@ -340,7 +340,6 @@ h1.company-name {
 padding: 8em 2em;
 background-color: $red;
 text-align: center;
-
 &__text{
 	padding: 1em;
 	margin-bottom: 1em;
@@ -348,7 +347,9 @@ text-align: center;
 	font-weight: 200;
 }
 &__form{
-	input{
+	align-items: center;
+	justify-content: center;
+input{
 		margin-bottom: 1em;
 		padding: 1em;
 		width: 100%;
@@ -364,6 +365,7 @@ text-align: center;
 		font-weight: bold;
 		cursor: pointer;
 		transition: background-color .3s, color .3s;
+		
 		&:hover{
 			color: $red;
 			background-color: $gold;
